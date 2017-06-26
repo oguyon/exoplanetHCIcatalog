@@ -1,0 +1,207 @@
+name	Gl551	proxima cent
+Teff	3042	Ségransan, D.; et al. (2003), "First radius measurements of very low mass stars with the VLTI", Astronomy and Astrophysics 397
+Blum	0.0017	Doyle, J. G.; Butler, C. J. (1990). "Optical and infrared photometry of dwarf M and K stars". Astronomy and Astrophysics 235: 335–339
+
+name	Gl559A	alpha cent A
+Teff	5790	
+Blum	1.519
+
+name	Gl559B	alpha cent B
+Teff	5260
+Blum	0.500
+
+name	Gl699	Barnard's star
+Teff	3134	Dawson, P. C.; De Robertis, M. M. (2004). "Barnard's Star and the M Dwarf Temperature Scale". The Astronomical Journal 127 (5): 2909. 
+Blum	0.0035	Dawson, P. C.; De Robertis, M. M. (2004). "Barnard's Star and the M Dwarf Temperature Scale". The Astronomical Journal 127 (5): 2909. 
+
+name	Gl406	CN Leonis, Wolf 359
+Teff	2800	Pavlenko, Ya. V.; et al. (2006). "Spectral energy distribution for GJ406". Astronomy and Astrophysics 447 (2): 709–717.
+Blum	0.0014
+
+name	Gl411	Lalande 21185
+Teff	3828	Cenarro, A. J.; et al. (January 2007), "Medium-resolution Isaac Newton Telescope library of empirical spectra - II. The stellar atmospheric parameters", Monthly Notices of the Royal Astronomical Society 374 (2): 664–690
+Blum	0.021	Newton, Elisabeth R.; et al. (February 2015), "An Empirical Calibration to Estimate Cool Dwarf Fundamental Parameters from H-band Spectra", The Astrophysical Journal 800
+	
+name	Gl244AB	Sirius
+Teff	9940
+Blum	25.4
+
+name	Gl729	Ross 154
+Teff	3340	Mentuch, Erin; et al., "Lithium Depletion of Nearby Young Stellar Associations", The Astrophysical Journal 689 (2): 1127–1140
+
+name	Gl905	Ross 248
+Teff	2799	Cenarro, A. J.; et al. (2007). "Medium-resolution Isaac Newton Telescope Library of Empirical Spectra – II. The Stellar Atmospheric Parameters". Monthly Notices of the Royal Astronomical Society 374 (2): 664–690.
+
+name	Gl144	eps eri
+Teff	5084	Kovtyukh, V. V.; et al. (December 2003), "High precision effective temperatures for 181 F-K dwarfs from line-depth ratios", Astronomy and Astrophysics 411 (3): 559–564
+
+name	Gl887	Lacaille 9352
+Teff	3626	Demory, B.-O.; et al. (October 2009), "Mass-radius relation of low and very low-mass stars revisited with the VLTI", Astronomy and Astrophysics 505 (1): 205–215,
+Blum	0.033	
+
+name	Gl447	Ross 128
+Teff	3180	Gautier, Thomas N., III; et al., "Far Infrared Properties of M Dwarfs", Bulletin of the American Astronomical Society 36: 1431, 
+Blum	0.0035	
+
+name	Gl280AB	Procyon
+Teff	6530
+Blum	6.93
+
+name	Gl820A	61 Cygni A
+Teff	4526	van Belle, Gerard T.; von Braun, Kaspar (2009), "Directly Determined Linear Radii and Effective Temperatures of Exoplanet Host Stars", The Astrophysical Journal 694 (2)
+
+name	Gl820B	61 Cygni B
+Teff	4077	van Belle, Gerard T.; von Braun, Kaspar (2009), "Directly Determined Linear Radii and Effective Temperatures of Exoplanet Host Stars", The Astrophysical Journal 694 (2)
+
+name	Gl725A	
+Teff	3441	Mann, Andrew W.; et al. (May 2015), "How to Constrain Your M Dwarf: Measuring Effective Temperature, Bolometric Luminosity, Mass, and Radius", The Astrophysical Journal 804 (1)
+
+name	Gl725B
+Teff	3345	Mann, Andrew W.; et al. (May 2015), "How to Constrain Your M Dwarf: Measuring Effective Temperature, Bolometric Luminosity, Mass, and Radius", The Astrophysical Journal 804 (1): 38
+
+name	Gl15A	
+Teff	3730	Berger, D. H.; et al. (2006). "First Results from the CHARA Array. IV. The Interferometric Radii of Low-Mass Stars". The Astrophysical Journal 644 (1): 475–483
+Blum	0.02589
+
+name	Gl15B
+Teff	3218	Mann, Andrew W.; et al. (May 2015), "How to Constrain Your M Dwarf: Measuring Effective Temperature, Bolometric Luminosity, Mass, and Radius", The Astrophysical Journal 804 (1): 38,
+Blum	0.00262
+
+name	Gl845	eps indi
+Teff	4630	Demory, B.-O.; et al. (October 2009). "Mass-radius relation of low and very low-mass stars revisited with the VLTI". Astronomy and Astrophysics 505 (1): 205–215. 
+Blum	0.22	
+
+name	GJ1111	DX Cancri
+Teff	2840	Reiners, A.; Basri, G. (February 2007). "The First Direct Measurements of Surface Magnetic Fields on Very Low Mass Stars". The Astrophysical Journal 656 (2): 1121–1135
+
+name	Gl71	tau ceti
+Teff	5344
+Blum	0.52
+
+name	Gl273	Luyten's Star
+Teff	3150
+
+name	PMI_J02530+1652	Teegarden's star
+Teff	2637	Rojas-Ayala, Bárbara; et al. (April 2012), "Metallicity and Temperature Indicators in M Dwarf K-band Spectra: Testing New and Updated Calibrations with Observations of 133 Solar Neighborhood M Dwarfs", The Astrophysical Journal 748 (2)
+
+name	Gl191	Kapteyn's Star
+Teff	3570	Kotoneva, E.; et al. (2005), "A study of Kapteyn's star", Astronomy & Astrophysics 438 (3): 957–962
+
+name	Gl825	Lacaille 8760
+Teff	3800	Gautier, Thomas N., III; et al. (September 2007), "Far-Infrared Properties of M Dwarfs", The Astrophysical Journal 667 (1): 527–536
+Blum	0.072	Moro-Martín, A.; et al. (March 2015). "Does the Presence of Planets Affect the Frequency and Properties of Extrasolar Kuiper Belts? Results from the Herschel Debris and Dunes Surveys". The Astrophysical Journal 801 (2): 28
+
+name	Gl860A	Kruger 60 A
+Teff	3180	
+
+name	Gl860B	Kruger 60 B
+Teff	2890
+
+name	GJ234B	Ross 614 B
+Teff	2660	temperature of M8 star
+
+name	GJ234B	Ross 614 A
+Teff	3200	temperature of M4.5 star
+
+name	Gl628	Wolf 1061
+Teff	3380	Rojas-Ayala, Bárbara; et al. (April 2012). "Metallicity and Temperature Indicators in M Dwarf K-band Spectra: Testing New and Updated Calibrations with Observations of 133 Solar Neighborhood M Dwarfs". The Astrophysical Journal 748 (2): 93
+Blum	0.0079	Wright, D.J; Wittenmyer, R.A.; Bentley, C.G.; Riedel, J.S.; Jinglin, Zhao (17 December 2015). "Three planets orbiting Wolf 1061"
+
+name	Gl35	Van Maanen 2
+Teff	6220	Sion, Edward M.; et al. (December 2009), "The White Dwarfs Within 20 Parsecs of the Sun: Kinematics and Statistics", The Astronomical Journal 138 (6): 1681–1689
+
+name	Gl1
+Teff	3567	Neves, V.; et al. (August 2014), "Metallicity of M dwarfs. IV. A high-precision [Fe/H] and Teff technique from high-resolution optical spectra for M dwarfs", Astronomy & Astrophysics 568: 22
+
+
+name	Gl473AB	Wolf 424 A
+Teff	3120	spectral type M5 ??
+
+name	GJ473B	Wolf 424 B
+Teff	2800	spectral type M6 ??
+
+name	Gl83.1	TZ Arietis
+Blum	0.00135	McLean, M.; Berger, E.; Reiners, A. (February 2012), "The Radio Activity-Rotation Relation of Ultracool Dwarfs", The Astrophysical Journal 746 (1):
+
+name	Gl687
+Teff	3095	Berger, D. H.; et al. (2006). "First Results from the CHARA Array. IV. The Interferometric Radii of Low-Mass Stars". The Astrophysical Journal 644 (1): 475–483
+
+name	Gl674
+Teff	3600
+
+
+name	Gl876
+Teff	3473	Rojas-Ayala, Bárbara; et al. (April 2012). "Metallicity and Temperature Indicators in M Dwarf K-band Spectra: Testing New and Updated Calibrations with Observations of 133 Solar Neighborhood M Dwarfs". The Astrophysical Journal 748 (2): 93
+Blum	0.013	Correia, A. C. M.; et al. (February 2010). "The HARPS search for southern extra-solar planets. XIX. Characterization and dynamics of the GJ 876 planetary system". Astronomy and Astrophysics 511
+
+
+name	Gl380	Groombridge 1618
+Teff	3970	 Woolf, Vincent M.; Wallerstein, George (January 2005). "Metallicity measurements using atomic lines in M and K dwarf stars". Monthly Notices of the Royal Astronomical Society 356 (3): 963–968
+Mbol	0.15	Eiroa, C.; et al. (December 2011), "Herschel discovery of a new class of cold, faint debris discs", Astronomy & Astrophysics 536: L4
+
+name	Gl768	Altair
+Teff	7500
+Blum	10.6
+
+name	Gl166A	40 Eri
+Teff	5300
+Blum	0.46
+
+name	Gl139	82 Eri
+Teff	5401
+Blum	0.74
+
+name	Gl702	70 Oph
+Teff	5300
+Blum	0.51
+
+name	Gl34A	eta Cas
+Teff	6087
+Blum	1.29
+
+name	Gl764	sigma Dra
+Teff	5299
+Blum	0.428
+
+name	Gl780	delta Pav
+Teff	5604
+Blum	1.22
+
+name	Gl663A	36 Oph A
+Teff	4843
+Blum	0.33
+
+name	Gl663B	36 Oph B
+Teff	5100
+Blum	0.40
+
+name	Gl475	beta CVn
+Teff	5653
+Blum	1.151
+
+name	Gl502	beta Com
+Teff	5936
+Blum	1.357
+
+name	Gl827	gam Pav
+Teff	6112
+Blum	1.52 
+
+name	Gl222AB	Chi1 Ori
+Teff	5955
+Blum	1.081
+
+name	Gl53AB	mu Cas
+Teff	5332
+Blum	0.442
+
+name	Gl506	61 Vir
+Teff	5585
+Blum	0.85
+
+# name	Gl17	zet Tuc
+# name	Gl566A	ksi Boo A
+	
+
+# end of file
+
